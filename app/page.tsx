@@ -49,7 +49,7 @@ export default function Home() {
             className="underline duration-500 hover:text-zinc-300"
           >
             Universitas Indonesia
-          </Link> , who's passionate about software engineering.
+          </Link>, who's passionate about software engineering.
         </h2>
       </div>
     </div>
